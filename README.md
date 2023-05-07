@@ -14,9 +14,9 @@
                                                                                                                          
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>&nbsp;GitHub Stats
 
-<div align="center" style="display:flex;">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cgaswin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgaswin&layout=compact&langs_count=8&theme=algolia"/>
-</div>
+</p>
 
 
