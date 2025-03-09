@@ -8,9 +8,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 Computer Science student at Government Engineering college Sreekrishnapuram.\
+🎓 SDE@UST\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 Currently learning backend development
+🌱 Currently working on Applied AI(agents,rag...)
 
 
 
